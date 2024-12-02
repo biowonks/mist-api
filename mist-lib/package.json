@@ -35,7 +35,7 @@
     "commander": "6.2.0",
     "duplex-child-process": "1.0.1",
     "inflection": "1.10.0",
-    "lodash": "4.17.20",
+    "lodash": "4.17.21",
     "mkdirp": "1.0.4",
     "moment": "2.29.1",
     "mv": "2.1.1",
